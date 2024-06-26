@@ -9,5 +9,4 @@ http
 
 https://github.com/DebakBhattacharjee/Priority-Based-VM-Migration/assets/103728522/b530b758-733d-4891-b2c9-83c489ffba89
 
-s://github.com/DebakBhattacharjee/Priority-Based-VM-Migration/assets/103728522/244e8887-41a9-463f-966d-f425bbfb3d69
 
